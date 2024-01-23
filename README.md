@@ -1,5 +1,5 @@
-Created famous games.
-Rules mentioned in each file.
+Created games using python.
+
 
 
 
